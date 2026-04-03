@@ -5,6 +5,7 @@ Personal notes taken while studying cybersecurity through TryHackMe (Pre-Securit
 ## Structure
 
 - `network/` — Networking fundamentals (OSI model, protocols, DNS, HTTP...)
+- `windows/` — Windows fundamentals, Active Directory, authentication
 - `linux/` — Linux basics, commands, file system, permissions
 - `web/` — Web technologies, HTTP, common vulnerabilities
 
